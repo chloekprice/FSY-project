@@ -1,6 +1,111 @@
 h1.title {
   text-align: center;
 }
-p.stake-name {
+h2.stake-name {
   text-align: center;
+}
+p.warning {
+  text-align: center;
+}
+div.parent {
+  display: flex;
+  padding: 30px;
+}
+div.session-map {
+  text-align: center;
+  margin-left: 75px;
+  margin-right: 150px;
+}
+div.map {
+  text-align: center;
+  position: relative;
+  display: inline;
+}
+img.Utah {
+  transform: rotate(-9deg);
+}
+img.BYU {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 350px;
+  right:320px;
+}
+img.USU {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 540px;
+  right:335px;
+}
+img.SC {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 250px;
+  right:300px;
+}
+img.UofU {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 420px;
+  right:350px;
+}
+img.WSU {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 475px;
+  right:360px;
+}
+img.UVU {
+  width: 20px;
+  height: auto;
+  position: absolute;
+  bottom: 360px;
+  right:325px;
+}
+div.information {
+  background-color: white;
+  font-size: 10px;
+  position: absolute;
+  bottom: 475px;
+  right:380px;
+}
+div.table {
+  text-align: center;
+  padding-right: 0px;
+}
+table {
+  border: 3px solid black;
+  border-spacing: 10px;
+}
+img.blue{
+  width: 15px;
+  height: auto;
+}
+img.green{
+  width: 15px;
+  height: auto;
+}
+img.pink{
+  width: 15px;
+  height: auto;
+}
+img.orange{
+  width: 15px;
+  height: auto;
+}
+img.yellow{
+  width: 15px;
+  height: auto;
+}
+img.purple{
+  width: 15px;
+  height: auto;
+}
+img.grey{
+  width: 15px;
+  height: auto;
 }
